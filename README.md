@@ -1,5 +1,7 @@
 # Formly Example 
 
+![789](https://user-images.githubusercontent.com/6864415/119000940-76357000-b983-11eb-953d-7af71c81c87f.PNG)
+
 ## Add User Form, using
 
 [Angular](https://angular.io/) version 12.0.0 <br>
