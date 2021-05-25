@@ -4,7 +4,7 @@
 
 ## Add User Form, using
 
-[Angular](https://angular.io/) version 12.0.0 <br>
+[Angular](https://angular.io/) v 12.0.0 <br>
 [Formly](https://formly.dev/)                  <br>
 [ngx-alert](https://www.npmjs.com/package/ngx-alerts) <br>
 [Angular Material](https://material.angular.io/)
